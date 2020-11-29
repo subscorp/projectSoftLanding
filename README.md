@@ -1,4 +1,1 @@
-# projectSoftLanding
-
-#testing of connection to repository
-description of the project goes here: 
+Web application for teaching the basics of coding in a fun and unique way. 
